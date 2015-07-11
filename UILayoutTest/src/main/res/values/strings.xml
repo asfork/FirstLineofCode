@@ -2,7 +2,8 @@
     <string name="app_name">UILayoutTest</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
-    <string name="button1">Button 1</string>
+    <string name="button1">Send</string>
     <string name="button2">Button 2</string>
     <string name="button3">Button 3</string>
+    <string name="input_message">Type something</string>
 </resources>

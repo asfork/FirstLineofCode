@@ -8,14 +8,12 @@
         android:layout_height="wrap_content"
         android:layout_weight="1"
         android:id="@+id/input_message"
-        android:hint="Type something"/>
+        android:hint="@string/input_message"/>
 
     <Button
-        android:layout_width="0dp"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_weight="1"
         android:id="@+id/button1"
-        android:layout_gravity="top"
         android:text="@string/button1"/>
 
     <!--<Button-->
