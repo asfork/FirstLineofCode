@@ -10,6 +10,7 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/UICustomViews" />
             <option value="$PROJECT_DIR$/UILayoutTest" />
             <option value="$PROJECT_DIR$/UIWidgetTest" />
           </set>

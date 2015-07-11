@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/FirstLineofCode.iml" filepath="$PROJECT_DIR$/FirstLineofCode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/UICustomViews/UICustomViews.iml" filepath="$PROJECT_DIR$/UICustomViews/UICustomViews.iml" />
       <module fileurl="file://$PROJECT_DIR$/UILayoutTest/UILayoutTest.iml" filepath="$PROJECT_DIR$/UILayoutTest/UILayoutTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/UIWidgetTest/UIWidgetTest.iml" filepath="$PROJECT_DIR$/UIWidgetTest/UIWidgetTest.iml" />
     </modules>
