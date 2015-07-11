@@ -3,24 +3,32 @@
     android:layout_height="match_parent"
     android:orientation="horizontal">
 
-    <Button
-        android:layout_width="wrap_content"
+    <EditText
+        android:layout_width="0dp"
         android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:id="@+id/input_message"
+        android:hint="Type something"/>
+
+    <Button
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
         android:id="@+id/button1"
         android:layout_gravity="top"
         android:text="@string/button1"/>
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button2"
-        android:layout_gravity="center_vertical"
-        android:text="@string/button2"/>
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/button2"-->
+        <!--android:layout_gravity="center_vertical"-->
+        <!--android:text="@string/button2"/>-->
 
-    <Button
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:id="@+id/button3"
-        android:layout_gravity="bottom"
-        android:text="@string/button3"/>
+    <!--<Button-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:id="@+id/button3"-->
+        <!--android:layout_gravity="bottom"-->
+        <!--android:text="@string/button3"/>-->
 </LinearLayout>
