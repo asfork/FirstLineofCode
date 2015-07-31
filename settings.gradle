@@ -1,1 +1,1 @@
-include ':UILayoutTest', ':UIWidgetTest', ':UICustomViews'
+include ':UILayoutTest', ':UIWidgetTest', ':UICustomViews', ':listviewtest', ':ListViewTest'
