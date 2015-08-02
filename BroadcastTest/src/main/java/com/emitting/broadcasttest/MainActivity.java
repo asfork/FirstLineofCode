@@ -33,7 +33,8 @@ public class MainActivity extends Activity {
             @Override
             public void onClick(View v) {
                 Intent intent = new Intent("com.emitting.broadcasttest.MY_BROADCAST");
-                sendBroadcast(intent);
+//                sendBroadcast(intent);
+                sendOrderedBroadcast(intent, null);
             }
         });
     }
