@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Broadcast Best Practice</string>
+    <string name="text_view">Account:</string>
+    <string name="text_view2">Password:</string>
+    <string name="edit_text">Input your account</string>
+    <string name="button">Login</string>
+    <string name="button_main">Send force offline broadcast</string>
+</resources>
