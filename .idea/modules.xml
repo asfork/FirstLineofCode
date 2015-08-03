@@ -8,7 +8,6 @@
       <module fileurl="file://$PROJECT_DIR$/UICustomViews/UICustomViews.iml" filepath="$PROJECT_DIR$/UICustomViews/UICustomViews.iml" />
       <module fileurl="file://$PROJECT_DIR$/UILayoutTest/UILayoutTest.iml" filepath="$PROJECT_DIR$/UILayoutTest/UILayoutTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/UIWidgetTest/UIWidgetTest.iml" filepath="$PROJECT_DIR$/UIWidgetTest/UIWidgetTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ListViewTest/listviewtest.iml" filepath="$PROJECT_DIR$/ListViewTest/listviewtest.iml" />
     </modules>
   </component>
 </project>
