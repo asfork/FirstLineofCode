@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Activity Test</string>
+    <string name="button">Button</string>
+    <string name="add_item">Add</string>
+    <string name="remove_item">Remove</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="button4">Button 4</string>
+</resources>
