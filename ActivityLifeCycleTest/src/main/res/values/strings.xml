@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity Life Cycle Test</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn1">Start Main Activity</string>
+    <string name="btn2">Start Dialog Activity</string>
+    <string name="dialog_textview">This is a Dialog Activity.</string>
+    <string name="normal_textview">This is Normal Activity.</string>
+</resources>
