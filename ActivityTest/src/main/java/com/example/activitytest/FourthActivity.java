@@ -10,7 +10,7 @@ import android.widget.Button;
 /**
  * Created by Zhang on 2015/8/18.
  */
-public class FourthActivity extends Activity {
+public class FourthActivity extends BaseActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

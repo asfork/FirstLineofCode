@@ -12,7 +12,7 @@ import android.widget.Toast;
 /**
  * Created by Steve on 2015/8/3.
  */
-public class FirstActivity extends Activity {
+public class FirstActivity extends BaseActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -24,11 +24,11 @@ public class FirstActivity extends Activity {
             public void onClick(View v) {
 //                Toast.makeText(FirstActivity.this, "You click Button", Toast.LENGTH_SHORT).show();
 
-//                Intent intent = new Intent(FirstActivity.this, SecondActivity.class);
+                SecondActivity.actionStart(FirstActivity.this, "data1", "data2");
 
-                Intent intent = new Intent("com.example.activitytest.ACTION_START");
-                intent.addCategory("com.example.activitytest.MY_CATEGORY");
-                startActivity(intent);
+//                Intent intent = new Intent("com.example.activitytest.ACTION_START");
+//                intent.addCategory("com.example.activitytest.MY_CATEGORY");
+//                startActivity(intent);
             }
         });
     }
